@@ -2,9 +2,9 @@
 
 ## 1. Thông tin nhóm/cá nhân
 
-- Họ tên:
-- Mã sinh viên:
-- Lớp:
+- Họ tên: Nguyễn Văn Đạt
+- Mã sinh viên: 1671040007
+- Lớp: KHMT 16_01
 - Link GitHub repo:
 - Link W&B dashboard:
 
